@@ -5,6 +5,7 @@ The project allows users to enter food product information such as ingredients, 
 This project was developed as a capstone AI agent project to demonstrate how modern agent-based systems can solve practical real-world problems in food safety, public health, nutrition, and bioinformatics.
 
 **Key Features**
+
 -Ingredient and nutrition label analysis
 
 -Added sugar, sodium, fiber, protein, and calorie risk scoring
