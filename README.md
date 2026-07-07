@@ -6,12 +6,19 @@ This project was developed as a capstone AI agent project to demonstrate how mod
 
 **Key Features**
 -Ingredient and nutrition label analysis
+
 -Added sugar, sodium, fiber, protein, and calorie risk scoring
+
 -Food safety and allergen risk identification
+
 -Microbial hazard reasoning for pathogens and spoilage organisms
+
 -Bioinformatics-inspired interpretation of optional microbial inputs
+
 -One Health summary connecting human, environmental, animal, and food-system risks
+
 -Structured AI-generated report with corrective action recommendations
+
 -Portfolio-ready demonstration of AI agents in scientific decision support
 
 **Example Use Case**
